@@ -46,7 +46,7 @@ RPO requires a dataset of scalar-feedback triplets:
 ```
 
 Each prompt is paired with multiple *(response, reward)* entries.
-We use the **UltraFeedback** dataset from [Cui et al., 2023](https://huggingface.co/datasets/CarperAI/ultrafeedback_binarized).
+We use the **UltraFeedback** dataset from [Cui et al., 2023](https://huggingface.co/datasets/HuggingFaceH4/ultrafeedback_binarized).
 
 ---
 
