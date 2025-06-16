@@ -126,10 +126,10 @@ RPO outputs are **more fluent, aligned, and helpful**, showing better semantic r
 If you find this work useful, please cite our paper:
 
 ```bibtex
-@article{faye2024rpo,
+@article{faye2025rpo,
   title={Value-Free Policy Optimization via Reward Partitioning},
   author={Bilal Faye and Hanane Azzag and Mustapha Lebbah},
-  year={2024},
+  year={2025},
   journal={arXiv preprint},
 }
 ```
